@@ -1,0 +1,9 @@
+.specifyUser {
+  text-align: center !important;
+  margin-bottom: 10px !important;
+}
+.birthdate {
+  margin: 0px !important;
+  text-align: left;
+  width: 70%;
+}

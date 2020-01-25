@@ -1,0 +1,14 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    min-height: calc(95vh);
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+}
+.sticky-footer{
+    /* display: none; */
+    align-items: center;
+}

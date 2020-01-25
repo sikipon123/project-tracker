@@ -1,0 +1,29 @@
+.admin-login-header{
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+    /* border: solid; */
+    text-decoration: none;
+    color: black;
+}
+.admin-login-header h1{
+    margin-left: 5px;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    min-height: calc(85vh);
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+}
+.admin-input{
+    width: 100% !important;
+    /* border: solid; */
+}
+.myfooter{
+    /* display: none; */
+    align-items: center;
+}

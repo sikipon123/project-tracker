@@ -1,0 +1,26 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 300px;
+  margin: 3%;
+  text-align: center;
+}
+.title {
+  color: grey;
+  font-size: 18px;
+}
+.projectImg {
+  height: 120px;
+}
+.projectsList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.validate-btn {
+  position: absolute;
+  bottom: 0px;
+  left: 38%;
+  /* margin-top: 10%; */
+}
+.status-area {
+  padding-bottom: 10%;
+}

@@ -1,0 +1,8 @@
+.birthdate {
+  font-size: 20px;
+  margin: 0px;
+}
+.form-control-instructor,.form-control-login-modal {
+  width: 60% !important;
+  margin: 2%;
+}

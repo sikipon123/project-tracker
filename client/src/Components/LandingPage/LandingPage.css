@@ -1,0 +1,42 @@
+.nav-link {
+  font-size: 17px !important;
+}
+.userType {
+  width: 70%;
+  margin: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+#welcomeMsg {
+  margin: 3% !important;
+}
+#welcomeMsg > span {
+  color: red;
+}
+.formArea {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+}
+.formArea > input {
+  width: 70%;
+}
+.formArea > button {
+  margin: 3%;
+}
+.formArea > h3 {
+  margin-bottom: 6%;
+}
+.passwordZone {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form-control {
+  margin-bottom: 3%;
+}
